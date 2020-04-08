@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #222627;
+}
+.main-heading{
+    padding-right:600px;
+}
+
+.main-heading h1{
+    color: rgb(62, 62, 99);
+    padding: 5px 0px 20px 0px;
+    font-size: 50px;
+}
+.main-heading h3{
+    font-size: 25px;
+}
+.header a{
+ padding:10px 30px 10px 30px;
+ border:none;
+ border-radius: 6%;
+ margin-top: 30px;
+ font-size: 30px;
+}
+
+body{
+    background-color:#001f3f;
+}
+
+
+
+.main{
+    font-size: 40px;
+}
+
+.main-heading img{
+    height: 90px;
+    width: 90px;
+}
